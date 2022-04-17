@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aarhuuus. A full-stack developer that relies on StackOverflow and coffee ☕
+- 👋 Hi, I’m Euris (aarhuuus). A full-stack developer that relies on StackOverflow and coffee ☕
 - 👀 I’m interested in making things that are functional and useful (for me or others)
 - 🌱 I’m currently learning `JavaScript, Rust, and Handlebars` and much more at the moment.
 - 🏵 I'm currently planning to self-learn these languages as they peaked my interest
