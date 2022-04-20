@@ -13,4 +13,4 @@
     - ~~Rastely - privacy-focused note sharing service with password encryption~~
   - [Kajise](https://github.com/kajise)
     - [Lavalink on Repl.it](https://github.com/kajise/lavalink-replit) - a fork of DarrenOfficial's lavalink-replit with version control.
-    - Lavalink-atleya - a list of Lavalink instances where anyone can connect on it.
+    - ~~Katleya - a list of Lavalink instances where anyone can connect on it.~~ [postponed]
