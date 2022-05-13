@@ -1,4 +1,8 @@
-### Oh, hello there.
+## Oh, hello there.
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,windicss,mongodb,figma" width="320" />
+</a>
+
 - 👋 I’m Euris (aarhuuus). A full-stack developer that relies on StackOverflow and coffee ☕
 - 👀 I’m interested in making things that are functional and useful (for me or others)
 - 🌱 I’m currently learning `JavaScript, Rust, and Handlebars` and much more at the moment.
