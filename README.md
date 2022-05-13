@@ -1,6 +1,6 @@
 ## 👋 Oh, hello there.
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,windicss,mongodb,figma" width="320" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,windicss,mongodb,express,figma" width="400" />
 </a>
 
 👋 I’m Euris (aarhuuus). A full-stack developer that relies on StackOverflow and coffee ☕ \
@@ -9,7 +9,7 @@
 🏵 I'm currently planning to self-learn these languages as they peaked my interest
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,php,mysql,java" width="160" />
+    <img src="https://skillicons.dev/icons?i=react,php,mysql,java,rust,kotlin,angular" width="320" />
     <br/>
 </a>
 
