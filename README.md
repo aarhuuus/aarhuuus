@@ -18,4 +18,4 @@
   - [Kajise](https://github.com/kajise)
 
 ## 📦 Projects
-  - [Lavalink on Repl.it](https://github.com/kajise/lavalink-replit) - a fork of DarrenOfficial's lavalink-replit with version control.
+  - [Lavalink on Repl.it](https://github.com/kajise/lavalink-replit) - A fork of DarrenOfficial's lavalink-replit with custom version and automatic versioning.
