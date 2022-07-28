@@ -1,6 +1,6 @@
 ## 👋 Oh, hello there.
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,windicss,mongodb,express,figma" width="400" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,windicss,mongodb,express,figma" width="400" />
 </a>
 
 👋 I’m Euris (aarhuuus). A full-stack developer that relies on StackOverflow and coffee ☕ \
