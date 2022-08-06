@@ -3,8 +3,8 @@
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,windicss,mongodb,express,figma" width="400" />
 </a>
 
-👋 I’m Euris (aarhuuus). A full-stack developer that relies on StackOverflow and coffee ☕ \
-👀 I’m interested in making things that are functional and useful (for me or others) \
+👋 I’m Euris (aarhuuus) [he/him]. A full-stack developer that relies on StackOverflow and coffee ☕ \
+👀 I’m interested in making things that are functional, useful and accessible (for me, others or everyone) \
 🌱 I’m currently learning `JavaScript, Rust, and Handlebars` and much more at the moment. \
 🏵 I'm currently planning to self-learn these languages as they peaked my interest
 
