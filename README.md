@@ -21,3 +21,4 @@
   - [Lavalink on Repl.it](https://github.com/kajise/lavalink-replit) - A fork of DarrenOfficial's lavalink-replit with custom version and automatic versioning.
   - [Bulkship](https://github.com/kajise/bulkship) - Prepares a Repl.it environment to be able to run Java applications with ease.
   - [Solace](https://github.com/kajise/solace) - Solace is a Discord music bot written in JavaScript for Node.JS
+  - [Basalt](https://github.com/kajise/basalt) - Another interesting Lavalink client for Node.JS 
