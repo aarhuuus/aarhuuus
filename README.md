@@ -5,13 +5,7 @@
 
 👋 I’m Euris (aarhuuus) [he/him]. A full-stack developer that relies on StackOverflow and coffee ☕ \
 👀 I’m interested in making things that are functional, useful and accessible (for me, others or everyone) \
-🌱 I’m currently learning `JavaScript, Rust, and Handlebars` and much more at the moment. \
-🏵 I'm currently planning to self-learn these languages as they peaked my interest
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,php,mysql,java,rust,kotlin,angular" width="320" />
-    <br/>
-</a>
+🌱 I'm currently planning to self-learn React, SQL, Java, Rust, Kotlin, Angular as they peaked my interest
 
 ## 👥 Organizations
   - [Simulacra](https://github.com/simulacraa)
