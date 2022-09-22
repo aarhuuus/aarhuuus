@@ -16,3 +16,7 @@
   - [Bulkship](https://github.com/kajise/bulkship) - Prepares a Repl.it environment to be able to run Java applications with ease.
   - [Solace](https://github.com/kajise/solace) - Solace is a Discord music bot written in JavaScript for Node.JS
   - [Basalt](https://github.com/kajise/basalt) - Another interesting Lavalink client for Node.JS 
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarhuuus&hide_langs_below=1&theme=dark&line_height=27&layout=compact" />
+</div>
