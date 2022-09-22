@@ -18,5 +18,7 @@
   - [Basalt](https://github.com/kajise/basalt) - Another interesting Lavalink client for Node.JS 
 
 <div>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarhuuus&hide_langs_below=1&theme=dark&line_height=27&layout=compact" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarhuuus&theme=dark" />
 </div>
