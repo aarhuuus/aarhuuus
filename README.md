@@ -19,6 +19,7 @@
 
 <div>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarhuuus&hide_langs_below=1&theme=dark&line_height=27&layout=compact" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarhuuus&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarhuuus&hide_langs_below=1&theme=dark&line_height=27&layout=compact" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarhuuus&theme=dark" />
+    <img width="49.5%" src="https://trackard-1-v8027229.deta.app/api/v1/render?user=224851702761652244&theme=dark">
 </div>
